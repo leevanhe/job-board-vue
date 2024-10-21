@@ -1,13 +1,12 @@
 ## job-board
 
-Het "job-board" project is een testproject dat ik heb opgezet om mijn kennis van Vue en TypeScript te demonstreren. Dit project stelt me in staat om een dynamische en interactieve frontend te bouwen voor een job board platform, waarbij gebruikers vacatures kunnen zoeken en bedrijven vacatures kunnen plaatsen. Door Vue te combineren met TypeScript, wil ik laten zien dat ik in staat ben om moderne JavaScript-technieken toe te passen en typage te gebruiken om de code betrouwbaarder en beter onderhoudbaar te maken.
+The "job-board" project is a test project I set up to demonstrate my knowledge of Vue and TypeScript. This project allows me to build a dynamic and interactive frontend for a job board platform, where users can search for job listings, and companies can post job openings. By combining Vue with TypeScript, I aim to showcase my ability to apply modern JavaScript techniques and utilize typing to make the code more reliable and maintainable.
 
-Hoewel het project nog in een work in progress-fase verkeert, ligt de focus nu op het verfijnen van de codebase. Er moeten nog tests worden geschreven om de stabiliteit van de applicatie te waarborgen en ervoor te zorgen dat de functionaliteiten naar behoren werken. Daarnaast zijn er enkele componenten en logica die verder gerefactord moeten worden om de code helderder, efficiënter en schaalbaarder te maken.
+Although the project is still a work in progress, the focus is currently on refining the codebase. Tests still need to be written to ensure the application's stability and proper functionality. Additionally, some components and logic require further refactoring to make the code clearer, more efficient, and scalable.
 
-TypeScript speelt in dit project een cruciale rol bij het versterken van de kwaliteit van de code, door typefouten vroegtijdig te detecteren en betere integraties te bieden binnen de ontwikkelomgeving. Samen met Vue, een flexibel en reactief framework, wil ik hiermee aantonen dat ik in staat ben om een moderne, robuuste frontend te ontwikkelen die goed gestructureerd is en klaar is voor verdere uitbreidingen.
+TypeScript plays a crucial role in this project by enhancing code quality, detecting type errors early, and offering better integrations within the development environment. Together with Vue, a flexible and reactive framework, I aim to demonstrate my ability to develop a modern, robust frontend that is well-structured and ready for further expansion.
 
-Met dit project wil ik niet alleen mijn technische vaardigheden in Vue en TypeScript onder de aandacht brengen, maar ook mijn vermogen om onderhoudbare en schaalbare oplossingen te creëren.
-
+With this project, I not only want to highlight my technical skills in Vue and TypeScript but also my ability to create maintainable and scalable solutions.
 ## Project Setup
 
 ```sh
